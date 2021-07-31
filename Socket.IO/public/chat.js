@@ -1,9 +1,9 @@
-const socket = io.connect('http://localhost:5000/')
+//const socket = io.connect('http://localhost:5000/')
 
-//socket.emit("sendMessageToServer");
+// socket.emit("sendMessageToServer");
 
 // socket.on("sendMessageToClient", (data) => {
 //   alert("sendMessageToClient tetiklendi."+data);
 // });
 
-socket.emit("name","murat")
+// socket.emit("name","murat")
